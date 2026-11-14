@@ -1,3 +1,8 @@
+# 🪐 NASA Exoplanet Transit Detection Dashboard
+
+An interactive web application built with **Streamlit**, **Lightkurve**, and **Plotly** that fetches real NASA light curve data (Kepler, K2, TESS), runs Box Least Squares (BLS) periodograms to detect exoplanet transits, and visualizes phase-folded transit dips.
+
+🚀 **Live App:** [Launch NASA Exoplanet Transit Detection Dashboard](https://nasa-exoplanet-dashboard.streamlit.app/)
 # Space Apps
 ## SOLVE REAL-WORLD CHALLENGES ON EARTH & IN SPACE
 The NASA Space Apps Challenge is a hackathon for coders, scientists, designers, storytellers, makers, technologists, and innovators around the world to come together and use open data from NASA and its Space Agency Partners to create solutions to challenges we face on Earth and in space.
