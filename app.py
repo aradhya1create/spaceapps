@@ -1,4 +1,4 @@
-%%writefile app.py
+
 import streamlit as st
 import lightkurve as lk
 import numpy as np
